@@ -154,7 +154,7 @@ All libraries and bundles included in the Symfony Standard Edition are
 released under the MIT or BSD license.
 
 Enjoy!
-
+peangement pour le test ici
 [1]:  http://symfony.com/doc/2.4/book/installation.html
 [2]:  http://getcomposer.org/
 [3]:  http://symfony.com/download
